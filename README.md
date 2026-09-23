@@ -1,179 +1,56 @@
-## Hi there 👋
-### Hi there 👋
+<h1 align="center">Hey, I'm Maruthi R M 👋</h1>
 
-# I'm Maruthi R M
-
-🎓 Electronics & Communication Engineering (ECE) Student  
-💻 Aspiring Embedded Systems & IoT Engineer  
-🔧 Electronics | Embedded Systems | VLSI | IoT  
-📚 Learning by building, experimenting, and sharing
+<p align="center">
+  ECE Student · Hardware Builder · Startup Founder · YouTube Creator
+  <br/>
+  Malnad College of Engineering, Hassan, Karnataka 🇮🇳
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I'm Building
 
-I'm an ECE student passionate about understanding how technology works from the fundamentals.
-
-I believe in:
-
-> **Learn → Build → Break → Debug → Improve → Share**
-
-Currently, I'm focusing on:
-
-- 🔌 Embedded Systems
-- 🤖 Arduino & ESP32
-- 🌐 IoT & Connected Devices
-- 💻 C / C++ / Python
-- 🧠 Electronics Fundamentals
-- 🔬 VLSI & Digital Electronics
-- 🖥️ Git & GitHub
-- 🛠️ PCB Design
-- ⚡ Sensors, Microcontrollers & Communication Interfaces
+| Project | What | Stack |
+|---------|------|-------|
+| [NETRA](https://github.com/maruthirm333-prog/netra) | Offline environmental monitoring for remote farms — no internet, no SIM | ESP32, LoRa, DHT22, MQ2, ISD1820 |
+| [SnakeSense](https://github.com/maruthirm333-prog/snakesense) | Real-time snake detection for rural homes | ESP32, PIR, IR, ESP-NOW |
+| [Electrical Safety Box](https://github.com/maruthirm333-prog/electrical-safety-box) | Detects failing joints before fires — at 29.8°C not 80°C | ESP32, INA219, NTC, WiFi |
+| [Quiz Buzzer System](https://github.com/maruthirm333-prog/quiz-buzzer-system) | 6-player ranking buzzer with OLED | ESP32, SSD1306 |
+| [PujaMitra](https://github.com/maruthirm333-prog/pujamitra) | Find & book pujaris for ceremonies in Hassan | React |
+| [MarketMentor AI](https://github.com/maruthirm333-prog/marketmentor-ai) | AI that teaches markets, not predicts them | Next.js, FastAPI, LLM |
 
 ---
 
-## 🔭 I'm Currently Working On
+## 🌾 RuralSense Labs
 
-- 🚀 Building electronics and embedded systems projects
-- 🌐 Learning ESP32 and IoT development
-- 🔧 Developing Arduino-based projects
-- 📚 Strengthening my Electronics & Communication fundamentals
-- 💻 Building my GitHub portfolio
-- 🎥 Creating educational content through **EC Simplified**
+Building hardware for Indian farmers — starting from Hassan, Karnataka.
+
+→ [ruralsense-labs](https://github.com/maruthirm333-prog/ruralsense-labs) · [golden-hour-relay](https://github.com/maruthirm333-prog/golden-hour-relay) · [seed-planting-robot](https://github.com/maruthirm333-prog/seed-planting-robot)
 
 ---
 
-## 🌱 I'm Currently Learning
+## 📡 ESP32 Learning Series
 
-- C Programming
-- C++
-- Python
-- Arduino
-- ESP32
-- Embedded Systems
-- IoT
-- Verilog
-- SystemVerilog
-- Digital Electronics
-- VLSI
-- Git & GitHub
-- PCB Design
+16+ projects from LED blink to LoRa field sensors — all public, all documented.
+
+→ [ESP_32-ZERO-TO-PRO](https://github.com/maruthirm333-prog/ESP_32-ZERO-TO-PRO) — full roadmap
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🎬 EC Simplified
 
-### Programming
-- C
-- C++
-- Python
-- Verilog
-- SystemVerilog
+Teaching electronics and robotics for absolute beginners on YouTube.
 
-### Embedded & Hardware
-- Arduino
-- ESP32
-- ESP8266
-- Raspberry Pi
-- Sensors
-- Motors
-- LCDs
-- RFID
-- Communication Interfaces
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Arduino IDE
-- Tinkercad
-- LTspice
-- MATLAB
+→ [ec-simplified](https://github.com/maruthirm333-prog/ec-simplified)
 
 ---
 
-## 🔥 Projects
+## 🛠️ Skills
 
-Some areas I'm working on and experimenting with:
-
-- 💡 Arduino LED & Sensor Projects
-- 🌡️ Temperature Monitoring Systems
-- 📏 Ultrasonic Distance Measurement
-- 🚗 Smart Parking Systems
-- 🔐 RFID Security Systems
-- 💧 Smart Irrigation Systems
-- 🤖 ESP32 IoT Projects
-- 📡 Wireless & Connected Devices
-- 🔌 Embedded Electronics Projects
-
-More projects coming soon...
+`ESP32` `Arduino` `LoRa` `I2C` `SPI` `Python` `React` `C++` `Hardware Debugging`
 
 ---
 
-## 🎥 EC Simplified
-
-I'm also building **EC Simplified**, an educational platform focused on making Electronics & Communication concepts easier to understand.
-
-Topics include:
-
-- Arduino
-- ESP32
-- Electronics
-- Embedded Systems
-- IoT
-- VLSI
-- Engineering Projects
-
-🎯 Goal:
-
-> **Make Electronics simple enough for anyone to understand.**
-
----
-
-## 📈 My Learning Philosophy
-
-I don't want to just memorize concepts.
-
-I want to understand:
-
-**What is it?**  
-↓  
-**Why do we need it?**  
-↓  
-**How does it work internally?**  
-↓  
-**How do we build it?**  
-↓  
-**Where is it used in the real world?**
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with:
-
-- 👨‍💻 Embedded Engineers
-- 🔬 VLSI Engineers
-- ⚡ Electronics Engineers
-- 🤖 IoT Developers
-- 🚀 Students & Developers
-- 🧠 People who love learning and building
-
-Feel free to explore my repositories and follow my learning journey!
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning **"I don't understand this"** into **"I built this."** 😄
-
----
-
-### ⭐ Keep Learning. Keep Building. Keep Sharing.
-
-**Electronics → Embedded → IoT → VLSI → Engineering**
-
-
- 
-
- 
+<p align="center">
+  <i>"Learn new and update life."</i>
+</p>
