@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Maruthi+R+M+%F0%9F%91%8B;ECE+Student+%7C+Hardware+Builder;Founder+%7C+YouTube+Creator;Building+for+Rural+India+%F0%9F%8C%BE" alt="Typing SVG" />
 
 <p>
-  <strong>2nd Year ECE · Malnad College of Engineering, Hassan, Karnataka 🇮🇳</strong><br/>
+  <strong>3nd Year ECE · Malnad College of Engineering, Hassan, Karnataka 🇮🇳</strong><br/>
   Building hardware and software that solves real problems for Indian farmers and rural communities.
 </p>
 
